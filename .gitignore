@@ -1,0 +1,17 @@
+# Python
+*.pyc
+.env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+*.csv
+*.zip
+*.pkl
+*.h5
+*.npy
+*.npz
+*.parquet
